@@ -1,6 +1,8 @@
-**Text Summarizer**
+**TEXT SUMMARIZER**
+
 Our product—Text Summarizer—provides deep learning summary using three machine learning models: ‘T5-FLAN’, ‘T5-XL’, and ‘Pegasus’.
-![image](https://user-images.githubusercontent.com/88929533/204211039-2a54cc7b-8cb5-4588-9246-48ed4764d2b3.png)
+
+![image](https://user-images.githubusercontent.com/88929533/204211848-a3236d6b-76fb-4107-b39a-45689ccb5b07.png)
 
 POST an input JSON to the API endpoint:
 
